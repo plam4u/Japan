@@ -3,10 +3,8 @@
 Day by day planning for our trip to Japan.
 
 ### Days
-* Day 1 - Tokyo
-
-<details>
-  <summary>Expand to see details…</summary>
+* <details>
+  <summary>Day 1 - Tokyo</summary>
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Itaque si aut requietem natura non quaereret aut eam posset alia quadam ratione consequi. Ut proverbia non nulla veriora sint quam vestra dogmata. Nihil ad rem! Ne sit sane; Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam; Egone non intellego, quid sit don Graece, Latine voluptas?
 </details>
