@@ -15,7 +15,7 @@ Day by day planning for our trip to Japan.
     </details>
 
 * Day 3 - Tokyo
-* Day 4 - Tokyo
-* Day 5 - Tokyo
-* Day 6 - Fuji
+  * Day 4 - Tokyo
+  * Day 5 - Tokyo
+  * Day 6 - Fuji
 * Day 7 - Fuji
