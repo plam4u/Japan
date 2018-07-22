@@ -4,6 +4,7 @@ Day by day planning for our trip to Japan.
 
 ### Days
 * Day 1 - Tokyo
+
 <details>
   <summary>Expand to see details…</summary>
   
@@ -11,6 +12,7 @@ Day by day planning for our trip to Japan.
 </details>
 
 * Day 2 - Tokyo
+
 <details>
   <summary>Expand to see details…</summary>
   
